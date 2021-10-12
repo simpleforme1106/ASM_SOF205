@@ -143,7 +143,7 @@ namespace PS15447_Assignment
                 ItemTKSP.Visible = true;
                 ItemHSNV.Visible = true;
                 ItemDN.Enabled = false;
-                if (dn.vaiTro == "0") //Neu vai tro la nhan vien
+                if (Convert.ToInt32(dn.vaiTro) == 0) //Neu vai tro la nhan vien
                 {
                     VaiTroNV();
                 }
