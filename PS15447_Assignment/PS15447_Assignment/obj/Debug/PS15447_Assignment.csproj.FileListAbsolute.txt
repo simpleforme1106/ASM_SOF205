@@ -1,0 +1,15 @@
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\bin\Debug\PS15447_Assignment.exe.config
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\bin\Debug\PS15447_Assignment.exe
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\bin\Debug\PS15447_Assignment.pdb
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.csproj.AssemblyReference.cache
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.FrmMain.resources
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.Properties.Resources.resources
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.csproj.GenerateResource.cache
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.csproj.CoreCompileInputs.cache
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.exe
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.pdb
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.FrmQLNV.resources
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.FrmQLKH.resources
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.FrmQLH.resources
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.FrmDMK.resources
+D:\SOF205\Assignment\PS15447_Assignment\PS15447_Assignment\obj\Debug\PS15447_Assignment.FrmDN.resources

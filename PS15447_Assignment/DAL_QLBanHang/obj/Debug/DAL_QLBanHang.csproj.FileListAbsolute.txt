@@ -1,0 +1,9 @@
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+D:\SOF205\Assignment\PS15447_Assignment\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
